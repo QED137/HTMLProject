@@ -27,7 +27,7 @@ Community and Networking: Collaborate with peers and professionals, fostering a 
 
 ## Projects Overview
 
-### 1. Project Name 1
+### 1. Project  1-> ( folder calCode)
 Calculator
 
 This project involves the creation of a simple yet functional calculator webpage. The calculator provides basic arithmetic operations, offering a user-friendly interface for performing calculations.
