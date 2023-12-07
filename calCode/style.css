@@ -1,0 +1,31 @@
+body {
+    background-color: wheat;
+    font-family: arial;
+    color: Black;
+}
+h1 {
+    color: grey;
+    font-family: verdana;
+}
+.maindv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+
+}
+/* ... your existing CSS ... */
+
+/* Add styling for the scientific calculator section */
+#resultSin,
+#resultCos,
+#resultTan {
+    font-weight: bold;
+    color: blue;
+}
+
+
+
+
